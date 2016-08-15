@@ -10,6 +10,7 @@ To edit what website you want to appear in your app you will need to edit one li
 
 <p>
 <pre>
+```swift
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
         
@@ -24,6 +25,7 @@ To edit what website you want to appear in your app you will need to edit one li
         
         return true
     }
+```
 </pre>
   </p>
   
