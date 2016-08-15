@@ -25,5 +25,5 @@ To edit what website you want to appear in your app you will need to edit one li
 </pre>
   </p>
   
-<p>If you have any questions I can be reached at brawlins4@gmail.com.</p>
+<p>If you have any questions I can be reached at <a href="mailto:brawlins4@gmail.com">brawlins4@gmail.com</a>.</p>
   
