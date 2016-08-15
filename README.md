@@ -1,1 +1,1 @@
-# Research-Genius-iOS
+# Research Genius iOS
