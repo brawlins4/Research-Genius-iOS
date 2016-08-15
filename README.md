@@ -9,7 +9,7 @@ To edit what website you want to appear in your app you will need to edit one li
 <p>To edit the navigation bar edit the Main.storyboard file.  Select the 'Navigation Controller Scence' and click on the arrow for Navigation Controller and then select 'Navigation Bar.' Use the panel that appears on the right to customize the colors of the navigation bar.  Another way to customize the colors of the navigation bar is to edit the AppDelegate.swift file.  The code is commented out in this project but if you prefere to customize the colors this way you can uncomment it and edit it.  To do that edit this code at the top of the file:</p>
 
 <p>
-<code>
+```swift
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
         
@@ -24,5 +24,6 @@ To edit what website you want to appear in your app you will need to edit one li
         
         return true
     }
-    </code></p>
+  ```
+  </p>
   
